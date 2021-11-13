@@ -1,0 +1,2 @@
+# MongardCelery
+Celery aws template
